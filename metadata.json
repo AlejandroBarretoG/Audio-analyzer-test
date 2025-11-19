@@ -1,0 +1,5 @@
+{
+  "name": "SceneSync AI",
+  "description": "AI-powered video scene analysis and subtitle generation tool using Gemini 2.5 Flash.",
+  "requestFramePermissions": []
+}
